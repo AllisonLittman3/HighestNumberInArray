@@ -1,0 +1,7 @@
+C:\Users\allis\Documents\Visual Studio 2017\Projects\HighestNumberInArray\HighestNumberInArray\bin\Debug\HighestNumberInArray.exe.config
+C:\Users\allis\Documents\Visual Studio 2017\Projects\HighestNumberInArray\HighestNumberInArray\bin\Debug\HighestNumberInArray.exe
+C:\Users\allis\Documents\Visual Studio 2017\Projects\HighestNumberInArray\HighestNumberInArray\bin\Debug\HighestNumberInArray.pdb
+C:\Users\allis\Documents\Visual Studio 2017\Projects\HighestNumberInArray\HighestNumberInArray\obj\Debug\HighestNumberInArray.csprojResolveAssemblyReference.cache
+C:\Users\allis\Documents\Visual Studio 2017\Projects\HighestNumberInArray\HighestNumberInArray\obj\Debug\HighestNumberInArray.csproj.CoreCompileInputs.cache
+C:\Users\allis\Documents\Visual Studio 2017\Projects\HighestNumberInArray\HighestNumberInArray\obj\Debug\HighestNumberInArray.exe
+C:\Users\allis\Documents\Visual Studio 2017\Projects\HighestNumberInArray\HighestNumberInArray\obj\Debug\HighestNumberInArray.pdb
